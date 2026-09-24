@@ -19,7 +19,7 @@ Three things a hiring manager can check without opening a notebook.
 
 **[Vantage](https://vantage.withtatva.ai/)** — Contractors needed a searchable knowledge hub, so the product is a CMS, a community, and an assistant in one deploy. I owned vendor profiles, editorial SEO, analytics, and the AI modules, and shipped them to people already using the site.
 
-**[TasteIQ](https://tasteiq.vercel.app/)** — Interior decisions stall on words like "modern." TasteIQ learns a design profile from swipes, keeps a taste graph, and matches homeowners to vendors whose work already fits. One graph, three surfaces: discover, vendor tools, and studio ops.
+**[TasteIQ](https://devtasteiq.withtatva.ai/)** — Interior decisions stall on words like "modern." TasteIQ learns a design profile from swipes, keeps a taste graph, and matches homeowners to vendors whose work already fits. One graph, three surfaces: discover, vendor tools, and studio ops.
 
 **[INUIT](https://inuitfootware.vercel.app/)** — A small-batch footwear store where the concierge is the checkout. Fit, style, and the order happen in one conversation, and the page still reads like a brand, not a support widget.
 
