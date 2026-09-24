@@ -1,94 +1,44 @@
-<div align="center">
+# I ship AI that has to survive production.
 
-<img src="https://tejas-melkote.vercel.app/profile.jpeg" width="140" alt="Tejas Melkote" />
+Final-year B.Tech CS (AI) at MIT Manipal. This year I merged into a live product at SuperAGI, shipped a construction platform at TatvaOps, and co-authored a poster at Sci-FM @ COLM 2026. Open to AI/ML and software engineering roles.
 
-# Tejas Melkote
+| | | |
+| --- | --- | --- |
+| **15+** production PRs | **Live** products in market | **COLM 2026** accepted poster |
+| Go, Rails, Vue, Jenkins, ArgoCD | React, CMS, analytics, AI | Calibration study, arXiv:2602.21947 |
 
-**AI/ML Engineer & Full-Stack Developer**
+## Read this first
 
-Building AI agents, LLM applications, and production systems.
+Three things a hiring manager can check without opening a notebook.
 
-Bengaluru, India · he/him
+1. **SuperAGI.** Email and WhatsApp campaign features inside a production codebase. Validation, test-send, background jobs, and event flow through Sidekiq, Redis, and Kafka. Fifteen-plus pull requests, deployed with Jenkins and ArgoCD. Jan–May 2026.
+2. **TatvaOps, now.** [Vantage](https://vantage.withtatva.ai/) is a construction knowledge platform already serving users: SEO content, forums, vendor profiles, analytics, and Eva, the in-product AI. I build on React and Vercel. May 2026–present, Bengaluru.
+3. **The paper.** [Large language models are algorithmically blind](https://arxiv.org/abs/2602.21947). Eight frontier models, thirteen datasets, 5,200 algorithm runs. Calibrated coverage was 15.9%. Predicted ranges ran far wider than a real confidence interval and still missed the true mean. With Sohan Venkatesh and Ashish Mahendran Kurapath.
 
-[Portfolio](https://tejas-melkote.vercel.app/) · [Resume](https://tejas-melkote.vercel.app/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/tejas-melkote-390545309/) · [Email](mailto:coooltejasdagr@gmail.com)
+## Work worth a conversation
 
-`Open to AI/ML and Software Engineering roles`
+**[Vantage](https://vantage.withtatva.ai/)** — Contractors needed a searchable knowledge hub, so the product is a CMS, a community, and an assistant in one deploy. I owned vendor profiles, editorial SEO, analytics, and the AI modules, and shipped them to people already using the site.
 
-</div>
+**[TasteIQ](https://tasteiq.vercel.app/)** — Interior decisions stall on words like "modern." TasteIQ learns a design profile from swipes, keeps a taste graph, and matches homeowners to vendors whose work already fits. One graph, three surfaces: discover, vendor tools, and studio ops.
 
----
+**[INUIT](https://inuitfootware.vercel.app/)** — A small-batch footwear store where the concierge is the checkout. Fit, style, and the order happen in one conversation, and the page still reads like a brand, not a support widget.
 
-AI engineer building production-grade AI systems and full-stack products. Final-year B.Tech CS (AI) at MIT Manipal — 15+ production PRs at SuperAGI, live products at TatvaOps, and an accepted poster at Sci-FM @ COLM 2026.
+**[AI Trip Planner](https://github.com/TejasMelkote/AI_Trip_Planner)** — A LangGraph agent over FastAPI, in Docker, calling seven APIs. Weather, search, and places are a state machine, so a failed tool call is a step you can see, not a dead itinerary.
 
-| | |
-| --- | --- |
-| **15+** | production PRs shipped at SuperAGI |
-| **1** | accepted poster, Sci-FM @ COLM 2026 |
-| **10+** | shipped projects |
-| **8.38** | CGPA · B.Tech CS (AI), MIT Manipal |
+**[Medical image app](https://medimage.streamlit.app/)** — One Streamlit surface for image analysis, PDF summaries, and document Q&A, with auth around the session. Built to see whether vision and retrieval can share a product without becoming two tools.
 
-## Now
+Earlier: AI/ML intern at CirrusLabs (2025), wrapping LLM agents and ML pipelines in FastAPI and Streamlit for the team that had to use them.
 
-**Full-Stack / AI Engineer at [TatvaOps](https://vantage.withtatva.ai/)** · May 2026 – Present · Bengaluru
+## How I work
 
-Building [Vantage](https://vantage.withtatva.ai/) — TatvaOps' AI-powered construction knowledge platform (InSights, Radar, Forums, Studio, Eva AI). Shipped the vendor profile system, CMS-driven SEO content, analytics dashboards, and production features on React + Vercel for real users in the construction vertical.
+I start from the action a user takes, then the data, then the model. Agents get explicit state. A demo and a production deploy are different jobs, and I have done both: Streamlit for a lab surface, Vercel and ArgoCD for something that stays up.
 
-## Experience
+Python, Go, React, TypeScript, Rails, Vue, FastAPI, LangGraph, PyTorch. Jenkins, ArgoCD, Redis, Kafka, Docker.
 
-### TatvaOps — Full-Stack / AI Engineer
-*May 2026 – Present · Bengaluru · On-site*
+## School
 
-React, TypeScript, CMS, SEO, Vercel, AI content. Production features on Vantage: vendor profiles, forums, analytics, and Eva AI.
+B.Tech Computer Science (AI), Manipal Institute of Technology, 2022–2026. CGPA 8.38. Class representative, AI-C.
 
-### SuperAGI — Software Development Engineer Intern
-*Jan 2026 – May 2026 · Bangalore*
+## If you're hiring
 
-Built marketing campaign features (Email and WhatsApp) in a production codebase with Go, Ruby on Rails, and Vue.js. Shipped 15+ pull requests through Jenkins and ArgoCD, including email-campaign validation and WhatsApp test-send. Worked with Sidekiq, Redis, and Kafka for background jobs and event streaming.
-
-### CirrusLabs — AI / ML Intern
-*May 2025 – Jul 2025 · Bengaluru*
-
-Built LLM chatbots, AI agents, and ML pipelines for internal tooling. Packaged models behind Streamlit and FastAPI interfaces.
-
-## Selected work
-
-| Project | What it is |
-| --- | --- |
-| [TatvaOps Vantage](https://vantage.withtatva.ai/) | Live CMS, forums, analytics, and AI content for the construction industry |
-| [TasteIQ](https://tasteiq.vercel.app/) | Swipe-first construction intelligence — Design DNA, Taste Graph, and vendor matching |
-| [INUIT](https://inuitfootware.vercel.app/) | Luxury footwear storefront with an AI concierge that takes the order in conversation |
-| [Verified Vendor Profile](https://vendor-profilepage.vercel.app/) | Searchable contractor listings with verified ratings and pricing insights |
-| [AI Trip Planner](https://github.com/TejasMelkote/AI_Trip_Planner) | LangGraph agent orchestrating 7 APIs through a FastAPI + Docker backend |
-| [Medical Image Analyzer](https://medimage.streamlit.app/) | Multimodal app: medical image analysis, PDF summarization, and RAG Q&A |
-
-More case studies live on the [portfolio](https://tejas-melkote.vercel.app/).
-
-## Research
-
-**[Algorithmic Blindness in Large Language Models: A Calibration Study of Performance Prediction](https://arxiv.org/abs/2602.21947)**
-
-Accepted poster · Sci-FM 2026 @ COLM · [arXiv:2602.21947](https://arxiv.org/abs/2602.21947) · [DOI](https://doi.org/10.48550/arxiv.2602.21947) · [Code](https://github.com/sohv/algorithmic-blindness) · [Workshop](https://science-ai-2026.github.io/)
-
-With Sohan Venkatesh and Ashish Mahendran Kurapath. Across eight frontier models, thirteen datasets, and 5,200 algorithm runs, frontier LLMs reached only 15.9% calibrated coverage when predicting their own task performance — a gap between declarative knowledge and calibrated procedural prediction.
-
-## Stack
-
-**ML systems** — PyTorch, RAG, LangGraph, LLMs, agents, computer vision, NLP
-
-**Full stack** — React, TypeScript, Go, Ruby on Rails, Vue.js, FastAPI, Streamlit
-
-**Infrastructure** — Jenkins, ArgoCD, Sidekiq, Redis, Kafka, Docker, Vercel
-
-## Education
-
-**B.Tech Computer Science (Artificial Intelligence)** · Manipal Institute of Technology · 2022–2026 · CGPA 8.38
-
-Class Representative, AI-C
-
----
-
-<div align="center">
-
-[tejas-melkote.vercel.app](https://tejas-melkote.vercel.app/)
-
-</div>
+The useful links are the [portfolio](https://tejas-melkote.vercel.app/) (case studies), the [resume](https://tejas-melkote.vercel.app/resume.pdf), the [paper](https://arxiv.org/abs/2602.21947), and [LinkedIn](https://www.linkedin.com/in/tejas-melkote-390545309/). Email is [coooltejasdagr@gmail.com](mailto:coooltejasdagr@gmail.com).
