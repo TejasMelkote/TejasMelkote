@@ -17,18 +17,18 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/Tejasdagr8"><code>@Tejasdagr8</code></a> · personal
   &nbsp;·&nbsp;
-  <a href="https://tejas-melkote.vercel.app/">portfolio</a>
+  Bengaluru · open to AI/ML &amp; SDE
 </p>
 
 ### I ship AI that has to survive production.
 
-**2026 new grad** — **B.Tech CS (AI)** at MIT Manipal. This year I shipped production work at **SuperAGI** and **TatvaOps**, and co-authored a poster at **Sci-FM @ COLM 2026**.
+**2026 new grad** — **B.Tech CS (AI)** at MIT Manipal (CGPA 8.38). This year I shipped production software at **SuperAGI** and **TatvaOps**, and co-authored a poster at **Sci-FM @ COLM 2026**.
 
-Full case studies, live demos, and the contribution pulse live on my [portfolio](https://tejas-melkote.vercel.app/).
+Full case studies, live demos, and the contribution pulse → **[tejas-melkote.vercel.app](https://tejas-melkote.vercel.app/)**
 
 | | |
 | --- | --- |
-| **GitHub (last 12 months)** | **2,607** contributions — `2,581` on [@TejasMelkote](https://github.com/TejasMelkote) + `26` on [@Tejasdagr8](https://github.com/Tejasdagr8) (GitHub GraphQL) |
+| **GitHub (last 12 months)** | **2,635** contributions — `2,609` on [@TejasMelkote](https://github.com/TejasMelkote) + `26` on [@Tejasdagr8](https://github.com/Tejasdagr8) (GitHub GraphQL) |
 | **SuperAGI** | SDE intern · Email & WhatsApp campaign features · **15+** production PRs · Go, Rails, Vue, Jenkins, ArgoCD |
 | **TatvaOps** | Full-stack / AI · [Vantage](https://vantage.withtatva.ai/) + [TasteIQ](https://devtasteiq.withtatva.ai/) in production |
 | **Research** | [arXiv:2602.21947](https://arxiv.org/abs/2602.21947) · Sci-FM @ COLM 2026 · 15.9% calibrated coverage |
@@ -40,18 +40,18 @@ Full case studies, live demos, and the contribution pulse live on my [portfolio]
 ## Contributions (verified)
 
 <p align="center">
-  <img src="./assets/contributions.svg" width="100%" alt="2,607 verified GitHub contributions" />
+  <img src="./assets/contributions.svg" width="100%" alt="2,635 verified GitHub contributions" />
 </p>
 
-These totals come from GitHub’s contribution calendar API for each account (includes private activity visible to the authenticated `@TejasMelkote` session). No third-party “stats card” estimates.
+Totals from GitHub’s contribution calendar GraphQL API (includes private activity when the authenticated token allows). No third-party “stats card” estimates.
 
 | Account | Role | Contributions (12 mo) |
 | --- | --- | ---: |
-| [@TejasMelkote](https://github.com/TejasMelkote) | work | 2,581 |
+| [@TejasMelkote](https://github.com/TejasMelkote) | work | 2,609 |
 | [@Tejasdagr8](https://github.com/Tejasdagr8) | personal | 26 |
-| **Combined** | | **2,607** |
+| **Combined** | | **2,635** |
 
-Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-melkote.vercel.app/)
+Live UI → [portfolio GitHub pulse](https://tejas-melkote.vercel.app/)
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="" />
@@ -74,9 +74,11 @@ Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-mel
   <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
-## Shipped products
+## Featured work
 
-### Vantage — construction & real-estate intelligence
+### Production (TatvaOps)
+
+#### Vantage — construction & real-estate intelligence
 
 <p align="center">
   <a href="https://vantage.withtatva.ai/">
@@ -84,18 +86,18 @@ Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-mel
   </a>
 </p>
 
-**[vantage.withtatva.ai](https://vantage.withtatva.ai/)** — Live CMS + community + AI for construction / real estate in India (TatvaOps).  
-Work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
+**[vantage.withtatva.ai](https://vantage.withtatva.ai/)** — Live CMS + community + AI for construction / real estate in India.  
+My work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
+
+#### TasteIQ — swipe → Design DNA → match
+
+**[devtasteiq.withtatva.ai](https://devtasteiq.withtatva.ai/)** — Learn interior taste from swipes, keep a taste graph, match to vendors.
 
 ---
 
-### TasteIQ — swipe → Design DNA → match
+### Independent products
 
-**[devtasteiq.withtatva.ai](https://devtasteiq.withtatva.ai/)** — TatvaOps product. Learn interior taste from swipes, keep a taste graph, match to vendors.
-
----
-
-### INUIT — conversational luxury footwear
+#### INUIT — conversational luxury footwear
 
 <p align="center">
   <a href="https://inuitfootware.vercel.app/">
@@ -103,14 +105,19 @@ Work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
   </a>
 </p>
 
-**[inuitfootware.vercel.app](https://inuitfootware.vercel.app/)** — Brand storefront where fit, style, and order run through an AI concierge.
+**[inuitfootware.vercel.app](https://inuitfootware.vercel.app/)** · [`TejasMelkote/inuitfootware`](https://github.com/TejasMelkote/inuitfootware) — Brand storefront where fit, style, and order run through an AI concierge.
 
----
+#### AI Trip Planner — LangGraph agents
 
-### Agents & multimodal
+[`TejasMelkote/AI_Trip_Planner`](https://github.com/TejasMelkote/AI_Trip_Planner) — FastAPI + LangGraph + RAG + React. Multi-agent trip planning with tool integrations and Docker deploy.
 
-- **[AI Trip Planner](https://github.com/TejasMelkote/AI_Trip_Planner)** — LangGraph + FastAPI + Docker · 7 API integrations  
-- **[Medical Image Analyzer](https://medimage.streamlit.app/)** — Streamlit · vision + PDF + RAG
+#### MedTruth AI — medical claim verification
+
+[`Tejasdagr8/MedTruth_AI`](https://github.com/Tejasdagr8/MedTruth_AI) — RAG + LLM pipeline that verifies medical claims against retrieved evidence (tests included).
+
+#### RAG Project — teaching retrieval stack
+
+[`Tejasdagr8/RAG_Project`](https://github.com/Tejasdagr8/RAG_Project) — Clean FastAPI retrieval-augmented generation service for study and demos.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="" />
@@ -136,12 +143,9 @@ With Sohan Venkatesh & Ashish Mahendran Kurapath.
 | Full-Stack / AI | TatvaOps | May 2026–present | Vantage + TasteIQ · React, CMS, SEO, analytics, AI |
 | AI/ML Intern | CirrusLabs | 2025 | LLM agents & ML pipelines · FastAPI, Streamlit |
 
-<details>
-<summary>How I work</summary>
+### How I work
 
-I start from the user action, then the data, then the model. Agents get explicit state. Demos and production deploys are different jobs — I’ve done both.
-
-</details>
+Start from the user action, then the data, then the model. Agents get **explicit state**. Reliability beats demos — ship and production deploy are different jobs, and I’ve done both.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="" />
@@ -149,11 +153,17 @@ I start from the user action, then the data, then the model. Agents get explicit
 
 ## Stack
 
+| Area | Tools |
+| --- | --- |
+| Languages | Python · Go · TypeScript · JavaScript |
+| AI / LLM | LangGraph · LangChain · PyTorch · RAG · embeddings |
+| Frontend | React · Next.js · Vue · Vite |
+| Backend | FastAPI · Rails · Node · Redis · Kafka |
+| Infra | Docker · Jenkins · ArgoCD · Vercel · GitHub Actions |
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,nodejs,fastapi,rails,vue,pytorch,docker,redis,kafka,vercel,git,linux" alt="Tech stack" />
 </p>
-
-`Python` · `Go` · `TypeScript` · `React` · `Rails` · `Vue` · `FastAPI` · `LangGraph` · `PyTorch` · `Jenkins` · `ArgoCD` · `Redis` · `Kafka` · `Docker` · `Vercel`
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="" />
