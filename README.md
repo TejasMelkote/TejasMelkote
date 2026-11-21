@@ -61,7 +61,7 @@ Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-mel
 
 <p align="center">
   <a href="https://tejas-melkote.vercel.app/">
-    <img src="./assets/portfolio-hero.png" width="100%" alt="Portfolio — Builds Minds hero with live stats" />
+    <img src="./assets/portfolio-hero.png" width="900" alt="Portfolio — Builds Minds with live stats" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-mel
 
 <p align="center">
   <a href="https://vantage.withtatva.ai/">
-    <img src="./assets/vantage-demo.png" width="100%" alt="Vantage live product" />
+    <img src="./assets/vantage-demo.png" width="900" alt="Vantage — live product UI" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@ Work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
 
 <p align="center">
   <a href="https://devtasteiq.withtatva.ai/">
-    <img src="./assets/tasteiq-demo.png" width="100%" alt="TasteIQ live product" />
+    <img src="./assets/tasteiq-demo.png" width="900" alt="TasteIQ — brand hero" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@ Work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
 
 <p align="center">
   <a href="https://inuitfootware.vercel.app/">
-    <img src="./assets/inuit-demo.png" width="100%" alt="INUIT storefront and concierge" />
+    <img src="./assets/inuit-demo.png" width="900" alt="INUIT — product hero" />
   </a>
 </p>
 
