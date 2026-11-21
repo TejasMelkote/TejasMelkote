@@ -61,7 +61,7 @@ Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-mel
 
 <p align="center">
   <a href="https://tejas-melkote.vercel.app/">
-    <img src="./assets/portfolio-hero.png" width="900" alt="Portfolio — Builds Minds with live stats" />
+    <img src="./assets/portfolio-hero.jpg" width="100%" alt="Portfolio — Tejas Melkote Builds Minds" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-mel
 
 <p align="center">
   <a href="https://vantage.withtatva.ai/">
-    <img src="./assets/vantage-demo.png" width="900" alt="Vantage — live product UI" />
+    <img src="./assets/vantage-demo.png" width="100%" alt="Vantage live product" />
   </a>
 </p>
 
@@ -91,12 +91,6 @@ Work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
 
 ### TasteIQ — swipe → Design DNA → match
 
-<p align="center">
-  <a href="https://devtasteiq.withtatva.ai/">
-    <img src="./assets/tasteiq-demo.png" width="900" alt="TasteIQ — brand hero" />
-  </a>
-</p>
-
 **[devtasteiq.withtatva.ai](https://devtasteiq.withtatva.ai/)** — TatvaOps product. Learn interior taste from swipes, keep a taste graph, match to vendors.
 
 ---
@@ -105,7 +99,7 @@ Work: vendor profiles, editorial SEO, analytics, AI modules · React + Vercel.
 
 <p align="center">
   <a href="https://inuitfootware.vercel.app/">
-    <img src="./assets/inuit-demo.png" width="900" alt="INUIT — product hero" />
+    <img src="./assets/inuit-demo.png" width="100%" alt="INUIT product hero" />
   </a>
 </p>
 
