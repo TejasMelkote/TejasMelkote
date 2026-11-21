@@ -28,7 +28,7 @@ Full case studies, live demos, and the contribution pulse live on my [portfolio]
 
 | | |
 | --- | --- |
-| **GitHub (last 12 months)** | **2,609** contributions — `2,583` on [@TejasMelkote](https://github.com/TejasMelkote) + `26` on [@Tejasdagr8](https://github.com/Tejasdagr8) (GitHub GraphQL) |
+| **GitHub (last 12 months)** | **2,607** contributions — `2,581` on [@TejasMelkote](https://github.com/TejasMelkote) + `26` on [@Tejasdagr8](https://github.com/Tejasdagr8) (GitHub GraphQL) |
 | **SuperAGI** | SDE intern · Email & WhatsApp campaign features · **15+** production PRs · Go, Rails, Vue, Jenkins, ArgoCD |
 | **TatvaOps** | Full-stack / AI · [Vantage](https://vantage.withtatva.ai/) + [TasteIQ](https://devtasteiq.withtatva.ai/) in production |
 | **Research** | [arXiv:2602.21947](https://arxiv.org/abs/2602.21947) · Sci-FM @ COLM 2026 · 15.9% calibrated coverage |
@@ -40,16 +40,16 @@ Full case studies, live demos, and the contribution pulse live on my [portfolio]
 ## Contributions (verified)
 
 <p align="center">
-  <img src="./assets/contributions.svg" width="100%" alt="2,609 verified GitHub contributions" />
+  <img src="./assets/contributions.svg" width="100%" alt="2,607 verified GitHub contributions" />
 </p>
 
 These totals come from GitHub’s contribution calendar API for each account (includes private activity visible to the authenticated `@TejasMelkote` session). No third-party “stats card” estimates.
 
 | Account | Role | Contributions (12 mo) |
 | --- | --- | ---: |
-| [@TejasMelkote](https://github.com/TejasMelkote) | work | 2,583 |
+| [@TejasMelkote](https://github.com/TejasMelkote) | work | 2,581 |
 | [@Tejasdagr8](https://github.com/Tejasdagr8) | personal | 26 |
-| **Combined** | | **2,609** |
+| **Combined** | | **2,607** |
 
 Live breakdown (same numbers, UI) → [portfolio GitHub pulse](https://tejas-melkote.vercel.app/)
 
