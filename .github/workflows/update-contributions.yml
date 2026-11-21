@@ -1,0 +1,48 @@
+name: Sync contribution totals
+
+on:
+  schedule:
+    # Twice daily — keeps README numbers honest without spam
+    - cron: "17 6,18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update-contributions.mjs"
+      - ".github/workflows/update-contributions.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Pull live GraphQL totals
+        env:
+          # Prefer a PAT with access to private contribution activity on @TejasMelkote.
+          # Fallback: default Actions token (public + this repo owner visibility).
+          # Optional repo secret CONTRIB_SYNC_TOKEN (classic PAT) includes private
+          # contribution activity. Otherwise uses the job token.
+          GITHUB_TOKEN: ${{ secrets.CONTRIB_SYNC_TOKEN != '' && secrets.CONTRIB_SYNC_TOKEN || github.token }}
+        run: node scripts/update-contributions.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/banner.svg assets/contributions.svg
+          if git diff --staged --quiet; then
+            echo "No contribution delta"
+            exit 0
+          fi
+          git commit -m "chore: sync live GitHub contribution totals"
+          git push
